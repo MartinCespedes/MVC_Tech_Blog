@@ -48,3 +48,6 @@ T- HEN I am prompted to enter both a title and contents for my blog post
 
 
 
+## Application Screenshot Preview
+
+![MVC Tech Blog](./Develop/images/MVC_Tech_Blog_1.png)
