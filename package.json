@@ -1,0 +1,25 @@
+{
+  "name": "mvc_tech_blog",
+  "version": "1.0.0",
+  "description": "ModelViewController (MVC) Challenge: Tech Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinCespedes/MVC_Tech_Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinCespedes/MVC_Tech_Blog/issues"
+  },
+  "homepage": "https://github.com/MartinCespedes/MVC_Tech_Blog#readme",
+  "dependencies": {
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}

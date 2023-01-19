@@ -16,8 +16,6 @@ ModelViewController (MVC) Challenge: Tech Blog
 
 [License](#license)
 
-[Contributors](#contributors)
-
 [Application Screenshot Preview](#applicationscreenshotpreview)
 
 ## Description
@@ -97,10 +95,6 @@ A database will need to be created first then seeded wih data.
 ## License
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-## Contributors
-
-- Martin Cespedes
 
 ## Application Screenshot Preview
 
