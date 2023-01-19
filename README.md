@@ -14,6 +14,10 @@ ModelViewController (MVC) Challenge: Tech Blog
 
 [Usage](#usage)
 
+[License](#license)
+
+[Contributors](#contributors)
+
 [Application Screenshot Preview](#applicationscreenshotpreview)
 
 ## Description
@@ -70,9 +74,33 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Installation
 
-```md
-npm i
-```
+The packages required to run are:
+
+- bcrypt
+
+- connect-session-sequelize
+
+- dotenv
+
+- express
+
+- express-handlebars
+
+- express-session
+
+- mysql2
+
+- sequelize
+
+A database will need to be created first then seeded wih data.
+
+## License
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Contributors
+
+- Martin Cespedes
 
 ## Application Screenshot Preview
 
